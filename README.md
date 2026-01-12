@@ -1,13 +1,13 @@
 Hi, I'm Nasim 👋
 
-🎓 CSE Student at Southeast University, Bangladesh  
-💻 Currently learning C Programming and problem solving  
+🎓 Motivated  
+💻 Learning C Programming and problem solving  
 🌱 Interested in Data Structures, AI, and Software Engineering  
-🚀 Goal: MS abroad / Top tech company
+🚀 Goal: Research / Top tech company
 
 🛠 Skills
 - C Programming
-- Problem Solving
+- Problem-Solving
 - Git & GitHub (Beginner)
 
 📌 Current Focus
