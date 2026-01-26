@@ -6,6 +6,9 @@ Hi, I'm Nasim 👋
 🚀 Goal: Research / Top tech company
 
 🛠 Skills
+- Data Analysis
+- Data Validation
+- Data Collection
 - C Programming
 - Problem-Solving
 - Git & GitHub (Beginner)
@@ -14,3 +17,6 @@ Hi, I'm Nasim 👋
 - University lab work
 - C programming practice
 - Building a strong coding foundation
+
+🎓 Certifications
+- CNA Certificate on Introduction to Data Science
