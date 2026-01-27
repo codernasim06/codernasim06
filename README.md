@@ -2,7 +2,7 @@ Hi, I'm Nasim 👋
 
 🎓 Motivated  
 💻 Learning C Programming and problem solving  
-🌱 Interested in Data Structures, AI, and Software Engineering  
+🌱 Interested in Data Structures, AI, Ml, and Software Engineering  
 🚀 Goal: Research / Top tech company
 
 🛠 Skills
