@@ -1,7 +1,11 @@
-Hi, I'm Nasim 👋
+Hi, I'm MD Mahfuz Karim Nasim! 👋
+
+**Below is a description about me: 
 
 🎓 Motivated  
-💻 Learning C Programming and problem solving  
+💻 Learning:
+    - Python 
+    - Pandas + NumPy + Matplotlib + Seaborn + Scikit-Learn + PyTorch + TensorFlow 
 🌱 Interested in Data Structures, AI, Ml, and Software Engineering  
 🚀 Goal: Research / Top tech company
 
@@ -9,13 +13,14 @@ Hi, I'm Nasim 👋
 - Data Analysis
 - Data Validation
 - Data Collection
+- Data Cleaning (Python)
 - C Programming
 - Problem-Solving
-- Git & GitHub (Beginner)
+- Git & GitHub 
 
 📌 Current Focus
 - University lab work
-- C programming practice
+- Programming practice
 - Building a strong coding foundation
 
 🎓 Certifications
