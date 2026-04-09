@@ -15,6 +15,7 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 - Data Collection
 - Data Cleaning (Python)
 - C Programming
+- Java OOP
 - Problem-Solving
 - Git & GitHub 
 
