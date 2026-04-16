@@ -25,4 +25,4 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 - Building a strong coding foundation
 
 🎓 Certifications
-- CNA Certificate on Introduction to Data Science
+- Cisco Networking Academy — Data Analysis Essentials
