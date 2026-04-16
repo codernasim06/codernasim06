@@ -20,7 +20,7 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 - Git & GitHub 
 
 📌 Current Focus
-- University lab work
+- University work
 - Programming practice
 - Building a strong coding foundation
 
