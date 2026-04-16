@@ -20,9 +20,7 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 - Git & GitHub 
 
 📌 Current Focus
-- University work
-- Programming practice
-- Building a strong coding foundation
+- Building EDA projects on Kaggle datasets using Pandas, Matplotlib, and Seaborn
 
 🎓 Certifications
 - Cisco Networking Academy — Data Analysis Essentials
