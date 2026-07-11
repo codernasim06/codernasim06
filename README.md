@@ -4,7 +4,7 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 
 🎓 Motivated  
 💻 Learning:
-    - Python 
+    - Deep Learning
     - Pandas + NumPy + Matplotlib + Seaborn + Scikit-Learn + PyTorch + TensorFlow 
 🌱 Interested in AI, ML, DL, and Systems Engineering  
 🚀 Goal: Research / Top tech company
@@ -13,6 +13,8 @@ Hi, I'm MD Mahfuz Karim Nasim! 👋
 - Data Analysis
 - C Programming
 - Java OOP
+- HTML
+- Python
 - Problem-Solving
 - Git & GitHub 
 
